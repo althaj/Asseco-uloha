@@ -1,0 +1,15 @@
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\bin\Debug\net8.0\DatabazaOsob.Model.deps.json
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\bin\Debug\net8.0\DatabazaOsob.Model.runtimeconfig.json
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\bin\Debug\net8.0\DatabazaOsob.Model.dll
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\bin\Debug\net8.0\DatabazaOsob.Model.pdb
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\obj\Debug\net8.0\DatabazaOsob.Model.csproj.AssemblyReference.cache
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\obj\Debug\net8.0\DatabazaOsob.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\obj\Debug\net8.0\DatabazaOsob.Model.AssemblyInfoInputs.cache
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\obj\Debug\net8.0\DatabazaOsob.Model.AssemblyInfo.cs
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\obj\Debug\net8.0\DatabazaOsob.Model.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\obj\Debug\net8.0\DatabazaOsob.Model.sourcelink.json
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\obj\Debug\net8.0\DatabazaOsob.Model.dll
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\obj\Debug\net8.0\refint\DatabazaOsob.Model.dll
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\obj\Debug\net8.0\DatabazaOsob.Model.pdb
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\obj\Debug\net8.0\DatabazaOsob.Model.genruntimeconfig.cache
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.Model\obj\Debug\net8.0\ref\DatabazaOsob.Model.dll

@@ -1,0 +1,6 @@
+@DatabazaOsob_HostAddress = http://localhost:5166
+
+GET {{DatabazaOsob_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

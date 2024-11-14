@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D14525E0-F8BC-4D67-8EBC-E707644D3EED}|DatabazaOsob.Model\\DatabazaOsob.Model.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.model\\context\\databazaosobcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14525E0-F8BC-4D67-8EBC-E707644D3EED}|DatabazaOsob.Model\\DatabazaOsob.Model.csproj|solutionrelative:databazaosob.model\\context\\databazaosobcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14525E0-F8BC-4D67-8EBC-E707644D3EED}|DatabazaOsob.Model\\DatabazaOsob.Model.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.model\\entities\\base\\enumerationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14525E0-F8BC-4D67-8EBC-E707644D3EED}|DatabazaOsob.Model\\DatabazaOsob.Model.csproj|solutionrelative:databazaosob.model\\entities\\base\\enumerationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14525E0-F8BC-4D67-8EBC-E707644D3EED}|DatabazaOsob.Model\\DatabazaOsob.Model.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.model\\migrations\\20241114162059_initialmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14525E0-F8BC-4D67-8EBC-E707644D3EED}|DatabazaOsob.Model\\DatabazaOsob.Model.csproj|solutionrelative:databazaosob.model\\migrations\\20241114162059_initialmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1943922077:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3541791:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241114162059_InitialModel.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.Model\\Migrations\\20241114162059_InitialModel.cs",
+              "RelativeDocumentMoniker": "DatabazaOsob.Model\\Migrations\\20241114162059_InitialModel.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.Model\\Migrations\\20241114162059_InitialModel.cs",
+              "RelativeToolTip": "DatabazaOsob.Model\\Migrations\\20241114162059_InitialModel.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:20:59.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnumerationEntity.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.Model\\Entities\\Base\\EnumerationEntity.cs",
+              "RelativeDocumentMoniker": "DatabazaOsob.Model\\Entities\\Base\\EnumerationEntity.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.Model\\Entities\\Base\\EnumerationEntity.cs",
+              "RelativeToolTip": "DatabazaOsob.Model\\Entities\\Base\\EnumerationEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:18:43.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabazaOsobContext.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.Model\\Context\\DatabazaOsobContext.cs",
+              "RelativeDocumentMoniker": "DatabazaOsob.Model\\Context\\DatabazaOsobContext.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.Model\\Context\\DatabazaOsobContext.cs",
+              "RelativeToolTip": "DatabazaOsob.Model\\Context\\DatabazaOsobContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:26:03.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
