@@ -7,10 +7,12 @@ namespace DatabazaOsob.CRUDService.Service
     public class ServiceManager : IServiceManager
     {
         private Mapper mapper;
+        private string? databaseFileName;
 
-        public ServiceManager()
+        public ServiceManager(string? databaseFileName = null)
         {
             mapper = InitializeAutomapper();
+            this.databaseFileName = databaseFileName;
         }
 
         private Mapper InitializeAutomapper()
@@ -55,7 +57,7 @@ namespace DatabazaOsob.CRUDService.Service
 
         public OsobaDTO CreateOsoba(OsobaDTO osobaDTO)
         {
-            CRUDService<Osoba> osobaService = new CRUDService<Osoba>();
+            CRUDService<Osoba> osobaService = new CRUDService<Osoba>(databaseFileName);
 
             var osoba = mapper.Map<Osoba>(osobaDTO);
 
@@ -67,7 +69,7 @@ namespace DatabazaOsob.CRUDService.Service
 
         public OsobaDTO GetOsoba(int id)
         {
-            OsobaCRUDService osobaService = new OsobaCRUDService();
+            OsobaCRUDService osobaService = new OsobaCRUDService(databaseFileName);
             var result = osobaService.Read(id);
             return mapper.Map<OsobaDTO>(result);
         }

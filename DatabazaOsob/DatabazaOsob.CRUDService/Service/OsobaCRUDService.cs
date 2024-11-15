@@ -7,9 +7,11 @@ namespace DatabazaOsob.CRUDService.Service
 {
     public class OsobaCRUDService : CRUDService<Osoba>
     {
+        public OsobaCRUDService(string? databaseFileName = null) : base(databaseFileName) { }
+
         public override Osoba Read(int id)
         {
-            using (DatabazaOsobContext context = new DatabazaOsobContext())
+            using (DatabazaOsobContext context = new DatabazaOsobContext(databaseFileName))
             {
                 Osoba entity = context.Set<Osoba>()
                     .Where(o => o.Id == id)

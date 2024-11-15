@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{785B8DB2-A3C6-45B7-975E-E7A6F4F95B6A}|DatabazaOsob.CRUDService.Test\\DatabazaOsob.CRUDService.Test.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.crudservice.test\\servicemanagerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B8DB2-A3C6-45B7-975E-E7A6F4F95B6A}|DatabazaOsob.CRUDService.Test\\DatabazaOsob.CRUDService.Test.csproj|solutionrelative:databazaosob.crudservice.test\\servicemanagerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14525E0-F8BC-4D67-8EBC-E707644D3EED}|DatabazaOsob.Model\\DatabazaOsob.Model.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.model\\context\\databazaosobcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14525E0-F8BC-4D67-8EBC-E707644D3EED}|DatabazaOsob.Model\\DatabazaOsob.Model.csproj|solutionrelative:databazaosob.model\\context\\databazaosobcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.crudservice\\service\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|solutionrelative:databazaosob.crudservice\\service\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.crudservice\\service\\osobacrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|solutionrelative:databazaosob.crudservice\\service\\osobacrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.crudservice\\service\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|solutionrelative:databazaosob.crudservice\\service\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3989CDA8-B6CA-4798-A211-B8ABA36A89A7}|DatabazaOsob\\DatabazaOsob.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3989CDA8-B6CA-4798-A211-B8ABA36A89A7}|DatabazaOsob\\DatabazaOsob.csproj|solutionrelative:databazaosob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.crudservice\\service\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|solutionrelative:databazaosob.crudservice\\service\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D14525E0-F8BC-4D67-8EBC-E707644D3EED}|DatabazaOsob.Model\\DatabazaOsob.Model.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.model\\entities\\bydliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +39,12 @@
       "RelativeMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|solutionrelative:databazaosob.crudservice\\dto\\kontaktdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3989CDA8-B6CA-4798-A211-B8ABA36A89A7}|DatabazaOsob\\DatabazaOsob.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3989CDA8-B6CA-4798-A211-B8ABA36A89A7}|DatabazaOsob\\DatabazaOsob.csproj|solutionrelative:databazaosob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D14525E0-F8BC-4D67-8EBC-E707644D3EED}|DatabazaOsob.Model\\DatabazaOsob.Model.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.model\\context\\databazaosobcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D14525E0-F8BC-4D67-8EBC-E707644D3EED}|DatabazaOsob.Model\\DatabazaOsob.Model.csproj|solutionrelative:databazaosob.model\\context\\databazaosobcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.crudservice\\dto\\osobadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|solutionrelative:databazaosob.crudservice\\dto\\osobadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.crudservice\\dto\\bydlistedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|solutionrelative:databazaosob.crudservice\\dto\\bydlistedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.crudservice\\service\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|solutionrelative:databazaosob.crudservice\\service\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C427D4-959C-4551-B646-5AB44BB868E6}|DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj|c:\\users\\david\\documents\\github\\asseco-uloha\\databazaosob\\databazaosob.crudservice\\dto\\base\\entitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +78,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ServiceManagerUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService.Test\\ServiceManagerUnitTest.cs",
+              "RelativeDocumentMoniker": "DatabazaOsob.CRUDService.Test\\ServiceManagerUnitTest.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService.Test\\ServiceManagerUnitTest.cs",
+              "RelativeToolTip": "DatabazaOsob.CRUDService.Test\\ServiceManagerUnitTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:42:07.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRUDService.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService\\Service\\CRUDService.cs",
+              "RelativeDocumentMoniker": "DatabazaOsob.CRUDService\\Service\\CRUDService.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService\\Service\\CRUDService.cs",
+              "RelativeToolTip": "DatabazaOsob.CRUDService\\Service\\CRUDService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:10:48.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "OsobaCRUDService.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService\\Service\\OsobaCRUDService.cs",
               "RelativeDocumentMoniker": "DatabazaOsob.CRUDService\\Service\\OsobaCRUDService.cs",
               "ToolTip": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService\\Service\\OsobaCRUDService.cs",
               "RelativeToolTip": "DatabazaOsob.CRUDService\\Service\\OsobaCRUDService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T17:55:53.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Bydliste.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.Model\\Entities\\Bydliste.cs",
               "RelativeDocumentMoniker": "DatabazaOsob.Model\\Entities\\Bydliste.cs",
@@ -91,64 +125,63 @@
               "RelativeToolTip": "DatabazaOsob.Model\\Entities\\Bydliste.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:52:58.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T17:52:58.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob\\Program.cs",
               "RelativeDocumentMoniker": "DatabazaOsob\\Program.cs",
               "ToolTip": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob\\Program.cs",
               "RelativeToolTip": "DatabazaOsob\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T17:40:29.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "DatabazaOsobContext.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.Model\\Context\\DatabazaOsobContext.cs",
               "RelativeDocumentMoniker": "DatabazaOsob.Model\\Context\\DatabazaOsobContext.cs",
               "ToolTip": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.Model\\Context\\DatabazaOsobContext.cs",
               "RelativeToolTip": "DatabazaOsob.Model\\Context\\DatabazaOsobContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T17:30:56.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ServiceManager.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService\\Service\\ServiceManager.cs",
               "RelativeDocumentMoniker": "DatabazaOsob.CRUDService\\Service\\ServiceManager.cs",
               "ToolTip": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService\\Service\\ServiceManager.cs",
               "RelativeToolTip": "DatabazaOsob.CRUDService\\Service\\ServiceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T17:03:51.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "IServiceManager.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService\\Service\\IServiceManager.cs",
               "RelativeDocumentMoniker": "DatabazaOsob.CRUDService\\Service\\IServiceManager.cs",
               "ToolTip": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService\\Service\\IServiceManager.cs",
               "RelativeToolTip": "DatabazaOsob.CRUDService\\Service\\IServiceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T16:57:51.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "OsobaDTO.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService\\DTO\\OsobaDTO.cs",
               "RelativeDocumentMoniker": "DatabazaOsob.CRUDService\\DTO\\OsobaDTO.cs",
@@ -156,12 +189,11 @@
               "RelativeToolTip": "DatabazaOsob.CRUDService\\DTO\\OsobaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T16:42:41.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T16:42:41.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "EntityDTO.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService\\DTO\\Base\\EntityDTO.cs",
               "RelativeDocumentMoniker": "DatabazaOsob.CRUDService\\DTO\\Base\\EntityDTO.cs",
@@ -169,12 +201,11 @@
               "RelativeToolTip": "DatabazaOsob.CRUDService\\DTO\\Base\\EntityDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T16:35:53.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T16:35:53.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "KontaktDTO.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService\\DTO\\KontaktDTO.cs",
               "RelativeDocumentMoniker": "DatabazaOsob.CRUDService\\DTO\\KontaktDTO.cs",
@@ -182,12 +213,11 @@
               "RelativeToolTip": "DatabazaOsob.CRUDService\\DTO\\KontaktDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T16:26:49.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T16:26:49.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "BydlisteDTO.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService\\DTO\\BydlisteDTO.cs",
               "RelativeDocumentMoniker": "DatabazaOsob.CRUDService\\DTO\\BydlisteDTO.cs",
@@ -195,8 +225,7 @@
               "RelativeToolTip": "DatabazaOsob.CRUDService\\DTO\\BydlisteDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T16:26:45.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T16:26:45.239Z"
             }
           ]
         }

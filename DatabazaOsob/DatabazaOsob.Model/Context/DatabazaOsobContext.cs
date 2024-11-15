@@ -7,12 +7,14 @@ namespace DatabazaOsob.Model.Context
     {
         private string DbPath;
 
-        public DatabazaOsobContext(string databaseFileName = "DatabazaOsob.db")
+        public DatabazaOsobContext(string? databaseFileName = null)
         {
             var folder = Environment.SpecialFolder.LocalApplicationData;
             var path = Path.Join(Environment.GetFolderPath(folder), "DatabazaOsob");
             Directory.CreateDirectory(path);
-            DbPath = Path.Join(path, databaseFileName);
+            DbPath = Path.Join(path, databaseFileName ?? "DatabazaOsob.db");
+
+            Database.EnsureCreated();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

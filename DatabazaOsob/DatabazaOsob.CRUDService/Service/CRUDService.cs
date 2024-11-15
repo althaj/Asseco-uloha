@@ -6,9 +6,16 @@ namespace DatabazaOsob.CRUDService.Service
 {
     public class CRUDService<T> where T : Entity
     {
+        protected string? databaseFileName;
+
+        public CRUDService(string? databaseFileName = null)
+        {
+            this.databaseFileName = databaseFileName;
+        }
+
         public virtual T Create(T entity)
         {
-            using(DatabazaOsobContext context = new DatabazaOsobContext())
+            using(DatabazaOsobContext context = new DatabazaOsobContext(databaseFileName))
             {
                 context.Set<T>().Add(entity);
                 context.SaveChanges();
@@ -19,7 +26,7 @@ namespace DatabazaOsob.CRUDService.Service
 
         public virtual void Delete(int id)
         {
-            using (DatabazaOsobContext context = new DatabazaOsobContext())
+            using (DatabazaOsobContext context = new DatabazaOsobContext(databaseFileName))
             {
                 context.Set<T>().Remove(Read(id));
             }
@@ -27,7 +34,7 @@ namespace DatabazaOsob.CRUDService.Service
 
         public virtual T Read(int id)
         {
-            using (DatabazaOsobContext context = new DatabazaOsobContext())
+            using (DatabazaOsobContext context = new DatabazaOsobContext(databaseFileName))
             {
                 T entity = context.Set<T>().FirstOrDefault(e => e.Id == id) ?? throw new EntityNotFoundException(typeof(T), id);
                 return entity;
@@ -36,7 +43,7 @@ namespace DatabazaOsob.CRUDService.Service
 
         public virtual T Update(T entity)
         {
-            using (DatabazaOsobContext context = new DatabazaOsobContext())
+            using (DatabazaOsobContext context = new DatabazaOsobContext(databaseFileName))
             {
                 context.Set<T>().Update(entity);
                 context.SaveChanges();

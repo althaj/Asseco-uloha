@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatabazaOsob")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1005b7d3a333610d2842c1971dc0d4377601144a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaf2cab2ff28177aca46eb56797b958672b8c17d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatabazaOsob")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatabazaOsob")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

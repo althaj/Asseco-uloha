@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabazaOsob.Model", "Datab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabazaOsob.CRUDService", "DatabazaOsob.CRUDService\DatabazaOsob.CRUDService.csproj", "{32C427D4-959C-4551-B646-5AB44BB868E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabazaOsob.CRUDService.Test", "DatabazaOsob.CRUDService.Test\DatabazaOsob.CRUDService.Test.csproj", "{785B8DB2-A3C6-45B7-975E-E7A6F4F95B6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{32C427D4-959C-4551-B646-5AB44BB868E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32C427D4-959C-4551-B646-5AB44BB868E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32C427D4-959C-4551-B646-5AB44BB868E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785B8DB2-A3C6-45B7-975E-E7A6F4F95B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785B8DB2-A3C6-45B7-975E-E7A6F4F95B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785B8DB2-A3C6-45B7-975E-E7A6F4F95B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785B8DB2-A3C6-45B7-975E-E7A6F4F95B6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
