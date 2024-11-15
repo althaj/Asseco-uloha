@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatabazaOsob.CRUDService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaf2cab2ff28177aca46eb56797b958672b8c17d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3c429d39f6842a21a228ec70037dfe2535609b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatabazaOsob.CRUDService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatabazaOsob.CRUDService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

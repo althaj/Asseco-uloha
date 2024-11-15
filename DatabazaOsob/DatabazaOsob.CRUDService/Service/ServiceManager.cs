@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using DatabazaOsob.CRUDService.DTO;
 using DatabazaOsob.Model.Entities;
+using Microsoft.Extensions.Logging;
 
 namespace DatabazaOsob.CRUDService.Service
 {
@@ -9,14 +10,27 @@ namespace DatabazaOsob.CRUDService.Service
         private Mapper mapper;
         private string? databaseFileName;
 
+        private readonly ILogger<ServiceManager>? logger;
+
         public ServiceManager(string? databaseFileName = null)
         {
             mapper = InitializeAutomapper();
             this.databaseFileName = databaseFileName;
         }
 
+        public ServiceManager(ILogger<ServiceManager> logger, string? databaseFileName = null)
+        {
+            mapper = InitializeAutomapper();
+            this.databaseFileName = databaseFileName;
+
+            this.logger = logger;
+            logger.LogDebug($"NLog injected into {typeof(ServiceManager).Name}.");
+        }
+
         private Mapper InitializeAutomapper()
         {
+            logger?.LogInformation($"Initializing Automapper.");
+
             var config = new MapperConfiguration(cfg =>
             {
                 cfg.CreateMap<OsobaDTO, Osoba>()
@@ -52,11 +66,15 @@ namespace DatabazaOsob.CRUDService.Service
                         opt => opt.MapFrom(entity => entity.TypKontaktu.Hodnota)
                     );
             });
+
+            logger?.LogInformation($"Automapper succesfully initialized.");
+
             return new Mapper(config);
         }
 
         public OsobaDTO CreateOsoba(OsobaDTO osobaDTO)
         {
+            logger?.LogInformation("Creating osoba with entity {0}", osobaDTO);
             CRUDService<Osoba> osobaService = new CRUDService<Osoba>(databaseFileName);
 
             var osoba = mapper.Map<Osoba>(osobaDTO);
@@ -69,6 +87,7 @@ namespace DatabazaOsob.CRUDService.Service
 
         public OsobaDTO GetOsoba(int id)
         {
+            logger?.LogInformation("Getting osoba with id {0}", id);
             OsobaCRUDService osobaService = new OsobaCRUDService(databaseFileName);
             var result = osobaService.Read(id);
             return mapper.Map<OsobaDTO>(result);
@@ -76,6 +95,8 @@ namespace DatabazaOsob.CRUDService.Service
 
         private void PrepareOsoba(Osoba osoba)
         {
+            logger?.LogInformation("Preparing osoba with entity {0}", osoba);
+
             if (string.IsNullOrEmpty(osoba.RodnePrijmeni))
                 osoba.RodnePrijmeni = osoba.Prijmeni;
 

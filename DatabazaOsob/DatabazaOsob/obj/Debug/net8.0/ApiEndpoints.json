@@ -8,7 +8,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "value",
+        "Name": "osoba",
         "Type": "DatabazaOsob.CRUDService.DTO.OsobaDTO",
         "IsRequired": true
       }

@@ -85,3 +85,7 @@ C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug
 C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug\net8.0\DatabazaOsob.CRUDService.dll
 C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug\net8.0\DatabazaOsob.CRUDService.pdb
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug\net8.0\nlog.config
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug\net8.0\NLog.dll
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug\net8.0\NLog.Web.AspNetCore.dll

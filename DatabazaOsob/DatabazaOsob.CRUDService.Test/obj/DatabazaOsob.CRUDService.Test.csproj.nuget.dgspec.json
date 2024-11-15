@@ -58,7 +58,7 @@
           "dependencies": {
             "MSTest": {
               "target": "Package",
-              "version": "[3.6.1, )"
+              "version": "[3.6.3, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -144,6 +144,14 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.3.4, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.14, )"
             }
           },
           "imports": [
@@ -227,6 +235,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.3.4, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.14, )"
             }
           },
           "imports": [

@@ -11,10 +11,13 @@ namespace DatabazaOsob.Controllers
     public class OsobyController : ControllerBase
     {
         private readonly IServiceManager serviceManager;
+        private readonly ILogger<OsobyController> logger;
 
-        public OsobyController(IServiceManager serviceManager)
+        public OsobyController(IServiceManager serviceManager, ILogger<OsobyController> logger)
         {
             this.serviceManager = serviceManager;
+            this.logger = logger;
+            logger.LogDebug($"NLog injected into {typeof(OsobyController).Name}.");
         }
 
         [HttpGet("{id}")]
@@ -22,27 +25,32 @@ namespace DatabazaOsob.Controllers
         {
             try
             {
+                logger.LogInformation("Getting Osoba with Id {0}.", id);
                 return Ok(serviceManager.GetOsoba(id));
             }
-            catch (EntityNotFoundException)
+            catch (EntityNotFoundException ex)
             {
+                logger.LogError(ex.Message);
                 return NotFound();
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                logger.LogError(ex.Message);
                 return BadRequest();
             }
         }
 
         [HttpPost]
-        public IActionResult Post([FromBody] OsobaDTO value)
+        public IActionResult Post([FromBody] OsobaDTO osoba)
         {
             try
             {
-                return Ok(serviceManager.CreateOsoba(value));
+                logger.LogInformation("Inserting Osoba with entity {0}.", osoba);
+                return Ok(serviceManager.CreateOsoba(osoba));
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                logger.LogError(ex.Message);
                 return BadRequest();
             }
         }

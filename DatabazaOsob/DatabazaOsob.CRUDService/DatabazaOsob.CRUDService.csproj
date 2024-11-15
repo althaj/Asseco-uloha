@@ -9,6 +9,8 @@
   <ItemGroup>
     <PackageReference Include="Altairis.ValidationToolkit" Version="4.1.1" />
     <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="NLog" Version="5.3.4" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.3.14" />
   </ItemGroup>
 
   <ItemGroup>

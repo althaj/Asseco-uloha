@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ebaEvQ36s+E=",
+  "dgSpecHash": "0fgMLhIdfBY=",
   "success": true,
   "projectFilePath": "C:\\Users\\David\\Documents\\GitHub\\Asseco-uloha\\DatabazaOsob\\DatabazaOsob.CRUDService\\DatabazaOsob.CRUDService.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,9 @@
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.options\\9.0.0\\microsoft.extensions.options.9.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\nlog\\5.3.4\\nlog.5.3.4.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\nlog.extensions.logging\\5.3.13\\nlog.extensions.logging.5.3.13.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\nlog.web.aspnetcore\\5.3.14\\nlog.web.aspnetcore.5.3.14.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
