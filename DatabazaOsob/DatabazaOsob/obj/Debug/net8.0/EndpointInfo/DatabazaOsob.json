@@ -1,0 +1,186 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "DatabazaOsob",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Osoby/{id}": {
+      "get": {
+        "tags": [
+          "Osoby"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Osoby": {
+      "post": {
+        "tags": [
+          "Osoby"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OsobaDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OsobaDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/OsobaDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "BydlisteDTO": {
+        "required": [
+          "mesto",
+          "psc",
+          "stat"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "ulice": {
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "mesto": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string"
+          },
+          "psc": {
+            "maxLength": 10,
+            "minLength": 0,
+            "type": "string"
+          },
+          "stat": {
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "KontaktDTO": {
+        "required": [
+          "hodnota",
+          "typKontaktu"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "typKontaktu": {
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string"
+          },
+          "hodnota": {
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "OsobaDTO": {
+        "required": [
+          "bydliste",
+          "datumNarozeni",
+          "jmeno",
+          "kontakty",
+          "narodnost",
+          "prijmeni"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "jmeno": {
+            "maxLength": 50,
+            "minLength": 1,
+            "type": "string"
+          },
+          "prijmeni": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string"
+          },
+          "rodnePrijmeni": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "rodneCislo": {
+            "type": "string",
+            "nullable": true
+          },
+          "datumNarozeni": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "narodnost": {
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string"
+          },
+          "bydliste": {
+            "$ref": "#/components/schemas/BydlisteDTO"
+          },
+          "kontakty": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/KontaktDTO"
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

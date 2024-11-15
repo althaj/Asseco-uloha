@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "DatabazaOsob.Controllers.OsobyController",
+    "Method": "Post",
+    "RelativePath": "api/Osoby",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "DatabazaOsob.CRUDService.DTO.OsobaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabazaOsob.Controllers.OsobyController",
+    "Method": "Get",
+    "RelativePath": "api/Osoby/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

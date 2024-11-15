@@ -7,15 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="7.0.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\DatabazaOsob.Model\DatabazaOsob.Model.csproj" />
+    <ProjectReference Include="..\DatabazaOsob.CRUDService\DatabazaOsob.CRUDService.csproj" />
   </ItemGroup>
 
 </Project>

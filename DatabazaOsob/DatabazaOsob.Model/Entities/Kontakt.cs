@@ -7,14 +7,16 @@ namespace DatabazaOsob.Model.Entities
     [Table("Kontakt")]
     public class Kontakt : Entity
     {
-        public required virtual TypKontaktu TypKontaktu { get; set; }
+        [Required]
+        public virtual TypKontaktu TypKontaktu { get; set; } = null!;
 
-        [MaxLength(100)]
-        public required string Hodnota { get; set; }
+        [Required, MaxLength(100)]
+        public string Hodnota { get; set; } = null!;
 
-        public required int OsobaId { get; set; }
+        [Required]
+        public int OsobaId { get; set; }
 
 
-        public required virtual Osoba Osoba { get; set; }
+        public virtual Osoba Osoba { get; set; } = null!;
     }
 }

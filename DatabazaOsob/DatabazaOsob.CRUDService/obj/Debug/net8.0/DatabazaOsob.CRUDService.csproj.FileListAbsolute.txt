@@ -1,0 +1,16 @@
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\bin\Debug\net8.0\DatabazaOsob.CRUDService.deps.json
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\bin\Debug\net8.0\DatabazaOsob.CRUDService.dll
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\bin\Debug\net8.0\DatabazaOsob.CRUDService.pdb
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\bin\Debug\net8.0\DatabazaOsob.Model.dll
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\bin\Debug\net8.0\DatabazaOsob.Model.pdb
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\obj\Debug\net8.0\DatabazaOsob.CRUDService.csproj.AssemblyReference.cache
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\obj\Debug\net8.0\DatabazaOsob.CRUDService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\obj\Debug\net8.0\DatabazaOsob.CRUDService.AssemblyInfoInputs.cache
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\obj\Debug\net8.0\DatabazaOsob.CRUDService.AssemblyInfo.cs
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\obj\Debug\net8.0\DatabazaOsob.CRUDService.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\obj\Debug\net8.0\DatabazaOsob.CRUDService.sourcelink.json
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\obj\Debug\net8.0\Databaza.62269CE8.Up2Date
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\obj\Debug\net8.0\DatabazaOsob.CRUDService.dll
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\obj\Debug\net8.0\refint\DatabazaOsob.CRUDService.dll
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\obj\Debug\net8.0\DatabazaOsob.CRUDService.pdb
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob.CRUDService\obj\Debug\net8.0\ref\DatabazaOsob.CRUDService.dll

@@ -10,13 +10,14 @@ namespace DatabazaOsob.Model.Entities
         [MaxLength(100)]
         public string? Ulice { get; set; }
 
-        [MaxLength(50)]
-        public required string Mesto { get; set; }
+        [Required, MaxLength(50)]
+        public string Mesto { get; set; } = null!;
 
-        [MaxLength(10)]
-        public required string PSC { get; set; }
+        [Required, MaxLength(10)]
+        public string PSC { get; set; } = null!;
 
 
-        public required virtual Stat Stat { get; set; }
+        [Required]
+        public virtual Stat Stat { get; set; } = null!;
     }
 }

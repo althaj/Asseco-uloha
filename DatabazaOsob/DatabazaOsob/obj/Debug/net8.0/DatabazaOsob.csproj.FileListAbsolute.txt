@@ -81,3 +81,7 @@ C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug
 C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug\net8.0\DatabazaOsob.Model.dll
 C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug\net8.0\DatabazaOsob.Model.pdb
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug\net8.0\Altairis.ValidationToolkit.dll
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug\net8.0\DatabazaOsob.CRUDService.dll
+C:\Users\David\Documents\GitHub\Asseco-uloha\DatabazaOsob\DatabazaOsob\bin\Debug\net8.0\DatabazaOsob.CRUDService.pdb
